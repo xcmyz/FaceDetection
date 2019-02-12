@@ -28,9 +28,9 @@
 
 ## Result
 
-![result1.jpg]
+![result1.jpg](pic/train.jpg)
 
-![result2.jpg]
+![result2.jpg](loss.jpg)
 
 ## Reference
 [1] Kaiming He, et al. "Deep Residual Learning for Image Recognition." arXiv arXiv:1512.03385 (2015).
