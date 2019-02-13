@@ -16,6 +16,7 @@
 ## Prepare For Training Data
 1. 下载LFW Face Database数据集，解压后放置于`data`下
 2. 运行`data/prepare_data.py`
+4. 注：在`data/prepare_data.py`第105行增加参数`download=True`，可以自动下载cifar100
 3. 运行`gen_train_loader_data.py`
 
 ## Run
