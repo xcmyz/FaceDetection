@@ -28,8 +28,6 @@
 
 ## Result
 
-![result1.jpg](pic/train.jpg)
-
 ![result2.jpg](loss.jpg)
 
 ## Reference
