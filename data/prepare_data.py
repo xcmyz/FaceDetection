@@ -103,7 +103,7 @@ def prepareOtherData():
     # print(cifar100_data)
 
     train_dataset = torchvision.datasets.CIFAR100(
-        root='', train=True, transform=None, download=True)
+        root='', train=True, transform=None)
 
     cifar100_class = np.load(os.path.join("cifar-100-python", "meta"))
     # print(cifar100_data)
